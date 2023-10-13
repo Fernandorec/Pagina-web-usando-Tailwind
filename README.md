@@ -1,1 +1,5 @@
 # Pagina-web-usando-Tailwind
+Este repositorio alberga el código fuente de mi página web personal, diseñada y desarrollada utilizando Tailwind CSS y CSS personalizado. 
+Tailwind CSS ha sido fundamental para la creación de una interfaz limpia y atractiva, permitiéndome diseñar de manera eficiente y mantener un código limpio y organizado. El CSS personalizado se ha utilizado para darle un toque único y personal a la interfaz. Siéntase libre de explorar el código fuente y utilizarlo como referencia para sus propios proyectos. ¡Gracias por visitar!
+
+This repository hosts the source code of my personal website, designed and developed using Tailwind CSS and custom CSS. Tailwind CSS has been instrumental in creating a clean and attractive interface, enabling me to design efficiently and maintain clean, organized code. Custom CSS has been used to give the interface a unique and personal touch. Feel free to explore the source code and use it as a reference for your own projects. Thank you for visiting!
